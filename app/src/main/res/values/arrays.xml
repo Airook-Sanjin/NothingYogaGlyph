@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="yoga_glyphs">
+        <item>@drawable/pose_bird_dog</item>
+        <item>@drawable/pose_bridge</item>
+        <item>@drawable/pose_child_s</item>
+        <item>@drawable/pose_cobra</item>
+        <item>@drawable/pose_standing_forward_fold</item>
+        <item>@drawable/pose_warrior_iii</item>
+    </array>
+</resources>
